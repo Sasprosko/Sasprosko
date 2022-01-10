@@ -1,5 +1,7 @@
 ## Merhaba <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+- Kendimden kısaca bahsedeyim; Adım Umut, 14 yaşındayım, 5 aydır kodlarla ile ilgileniyorum. Çok yakışıklı, komik, özgüvenli vs. Birisiyim.
+
 <h3> Sosyal Medya Hesaplarım </h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/JPu6Xm8yyP)
