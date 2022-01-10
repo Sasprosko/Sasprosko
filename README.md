@@ -1,7 +1,9 @@
 ## Merhaba <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### Links(Baglantilar) ⛓
-- [İnstagram](https://www.instagram.com/umut.apil/) - [Spotify](https://open.spotify.com/user/31p2mzedfs7e5so5jrzwr3dmnkj4?si=c2c521b132294081) - [Steam](https://steamcommunity.com/profiles/76561199071630426/) - [Twitter](https://mobile.twitter.com/sasprosko) - [Twitch](https://www.twitch.tv/sasprosko) - [Reddit](https://www.reddit.com/user/sasprosko590)
+<h3> Sosyal Medya Hesaplarım </h3>
+
+[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/JPu6Xm8yyP)
+[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UC1aIvE7CDLac8wgQZODMjFQ)
 
 ---
 
