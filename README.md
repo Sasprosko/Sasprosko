@@ -7,8 +7,6 @@
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/JPu6Xm8yyP)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UC1aIvE7CDLac8wgQZODMjFQ)
 
----
-
 <div >
 <h3>Github Stat</h3>
    <a href="https://github.com/Sasprosko" target="_blank">
