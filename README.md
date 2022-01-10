@@ -1,6 +1,6 @@
 ## Merhaba <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- Kendimden kısaca bahsedeyim; Adım Umut, 14 yaşındayım, 5 aydır kodlarla ile ilgileniyorum. Çok yakışıklı, komik, özgüvenli vs. Birisiyim.
+- Kendimden kısaca bahsedeyim; Adım Umut, 14 yaşındayım, 5 aydır kodlarla ile ilgileniyorum. Çok yakışıklı, komik ve özgüvenli birisiyim.
 
 <h3> Sosyal Medya Hesaplarım </h3>
 
